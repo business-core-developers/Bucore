@@ -6,7 +6,7 @@
 <defs>
   <linearGradient id="BgGradient">
       <stop offset="5%"  stop-color="#2ab9a5"/>
-      <stop offset="95%" stop-color="#97c74e"/>
+      <stop offset="95%" stop-color="#8B0000"/>
   </linearGradient>
 </defs>
 
@@ -15,7 +15,7 @@
 	.border-color{stroke:#4cbd89; fill:none; stroke-miterlimit:10; stroke-dasharray:12.2685,12.2685; }
 	.center-element{fill:#FFFFFF;}
 </style>
-
+#ffff
 
 <g>
 <circle class="border-color" cx="280" cy="144" r="82">
